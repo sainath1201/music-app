@@ -1,5 +1,5 @@
 # music-app
-
+basics of music app
 > A Vue.js project
 
 ## Build Setup
